@@ -1,0 +1,9 @@
+export enum Configuration {
+  SERVER_HOST = 'SERVER_HOST',
+  SERVER_PORT = 'SERVER_PORT',
+  DB_PORT = 'DB_PORT',
+  DB_HOST = 'DB_HOST',
+  DB_USERNAME = 'DB_USERNAME',
+  DB_PASSWORD = 'DB_PASSWORD',
+  DB_NAME = 'DB_NAME',
+}
